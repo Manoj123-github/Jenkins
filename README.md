@@ -1,5 +1,6 @@
 
 # About Jenkins
+Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
 Jenkins, in simple terms, is an open-source automation tool that helps developers and teams to automate various tasks in the software development process. It allows them to set up and manage continuous integration and continuous delivery (CI/CD) pipelines. These pipelines streamline the process of building, testing, and deploying software, making it faster and more efficient.
 
 In essence, Jenkins is like a helpful assistant that automates repetitive tasks, like compiling code, running tests, and deploying applications, saving time and reducing human error. It is widely used in the software development industry to ensure the quality and timely delivery of software projects.
