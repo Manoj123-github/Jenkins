@@ -1,6 +1,13 @@
-# Jenkins
 
+# About Jenkins
+Jenkins is a software that allows continuous integration. Jenkins will be installed on a server where the central build will take place.
 
-# Create Personal Access Token on GitHub
+The following flowchart demonstrates a very simple workflow of how Jenkins works.
 
-From your GitHub account, go to Settings → Developer Settings → Personal Access Token → Generate New Token (Give your password) → Fillup the form → click Generate token → Copy the generated Token, it will be something like ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta
+![image](https://github.com/Manoj123-github/Jenkins/assets/76830665/cc538383-0f42-4b00-b879-3e7f9c41689d)
+
+# What is Continuous Integration?
+
+Continuous Integration is a development practice that requires developers to integrate code into a shared repository at regular intervals. 
+
+This concept was meant to remove the problem of finding later occurrence of issues in the build lifecycle. Continuous integration requires the developers to have frequent builds. 
